@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.starting-giants.nl" resolutions="1x" timestamp="1582492364462">
+  <folder name="css">
+    <file name="site_global.css" crc="4226409380"/>
+    <file name="index.css" crc="3964277753" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="3820983874" ref="index"/>
+    <file name="form_process.php" crc="3776570906" ref="index"/>
+    <file name="form-u2429.php" crc="209794274" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="podium1.png" crc="320186538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podium2.png" crc="4153436798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="croud11.png" crc="4119566903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="croud122.png" crc="378853226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1252-4.png" crc="4271220728" ref="index"/>
+    <file name="u1815-10.png" crc="3778022029" ref="index"/>
+    <file name="u1884-11.png" crc="518817650" ref="index"/>
+    <file name="systemstaende_1200x675.jpg" crc="4144002767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9e9948facec4ef5a5446821b607595a2.jpg" crc="3992466219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2158-7.png" crc="97977721" ref="index"/>
+    <file name="starting giants.png" crc="91757783" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u877-4.png" crc="405847706" ref="index"/>
+    <file name="u870-4.png" crc="296955336" ref="index"/>
+    <file name="u952-3.png" crc="175766120" ref="index"/>
+    <file name="u863-4.png" crc="359232656" ref="index"/>
+    <file name="u884-4.png" crc="4106615921" ref="index"/>
+    <file name="cwd01-news-1-business-meeting-finance-office-team-teamwork-strategy-technology-planning-discussion-boardroom-tablet-computing-data-brainstorm-thinkstock-100365065-orig.jpg" crc="4131511902" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u454-4.png" crc="202619625" ref="index"/>
+    <file name="u495-4.png" crc="233600153" ref="index"/>
+    <file name="u537-4.png" crc="239382101" ref="index"/>
+    <file name="u516-4.png" crc="172989026" ref="index"/>
+    <file name="u624-4.png" crc="515074352" ref="index"/>
+    <file name="asset 1.png" crc="504126677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tech_sector_image_1428x952px_2.jpg" crc="356551018" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metro_20171121_tech-empowers-tech-polarizes-mark-muro.jpg" crc="415775134" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1018-9.png" crc="19768769" ref="index"/>
+    <file name="hirt.png" crc="346801187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="event-ticket-mockup-2.jpg" crc="296639695" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2166-4.png" crc="521646605" ref="index"/>
+    <file name="bosch-contact.jpg" crc="87632271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2544-4.png" crc="420639810" ref="index"/>
+    <file name="u2648-4.png" crc="224335320" ref="index"/>
+    <file name="u1818-10.png" crc="3981587556" ref="index"/>
+  </folder>
+  <file name="index.html" crc="463273548" seo="true" mt="1582489677796" redirect="true"/>
+</manifest>
